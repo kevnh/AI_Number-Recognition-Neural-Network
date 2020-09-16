@@ -13,13 +13,13 @@ Example:
 
 python main.py -a 3.0 -e 30 -s -b 10
 
-IMPORTANT NOTE: Running with -r and -s flag will initialize
-random weights and save them to file losing any previously
+IMPORTANT NOTE: Running with -r and -s flag will initialize\
+random weights and save them to file losing any previously\
 saved weights
 
-python main.py -u	# Uses image.png as input, users can
-			# draw whatever number in image.png
-			# which will then be used in the network
+python main.py -u	# Uses image.png as input, users can\
+			# draw whatever number in image.png\
+			# which will then be used in the network\
 			# and output a result (not always correct)
 
 Also not possible to insert own test_data at the moment.
