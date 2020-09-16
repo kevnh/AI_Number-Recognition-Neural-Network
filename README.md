@@ -1,4 +1,5 @@
 # AI_Number-Recognition-Neural-Network
+Uses http://neuralnetworksanddeeplearning.com/chap1.html as a base.\
 Number recognition neural network used for Artifiical Intelligence course.
 
 Necessary Python modules:
